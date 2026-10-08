@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local databases
+*.db
+
+# Old/backup files
+app_old.py
+app_broken.py
